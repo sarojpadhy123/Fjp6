@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log("Swagat mhi karoge hamara!!1");
 let a = 10;
 let str = "String";
@@ -58,12 +57,3 @@ console.log(divison(100, 2));
     let add = num1 + num2 + num3;
     console.log(add);
 })(10, 15, 25);
-=======
-console.log("Swagat mhi karoge hamara!!1");
-let a = 10;
-let str = "String";
-let bool = true;
-for (let i = 1; i <= 5; i++) {
-    console.log(i);
-}
->>>>>>> d7f61b96b7543f2b41d7533c86f43287f15e0fcb
